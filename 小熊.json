@@ -1,0 +1,34 @@
+{
+  "sites": [
+	{"name":"🔴火狐|采集","api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8"},
+	{"name":"🔴新浪|采集","api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/"},
+	{"name":"🔴爱坤|采集","api":"https://ikunzyapi.com/api.php/provide/vod"},
+	{"name":"🔴飞速|采集","api":"https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8"},
+	{"name":"🔴金鹰|采集","api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8"},
+    {"name": "量子", "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/" },
+    {"name": "红牛", "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/" },
+    {"name": "非凡", "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/" }
+  ],
+  "lives": [
+    {
+      "group": "CCTV",
+      "channels": [
+        { "name": "CCTV1", "urls": ["https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8"] },
+        { "name": "CCTV2", "urls": ["https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8"] },
+        { "name": "CCTV3", "urls": ["https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8"] },
+        { "name": "CCTV4", "urls": ["https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8"] },
+        { "name": "CCTV5", "urls": ["https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8"] },
+        { "name": "CCTV6", "urls": ["https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8"] },
+        { "name": "CCTV7", "urls": ["https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8"] },
+        { "name": "CCTV8", "urls": ["https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8"] },
+        { "name": "CCTV9", "urls": ["https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8"] },
+        { "name": "CCTV10", "urls": ["https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8"] },
+        { "name": "CCTV11", "urls": ["https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8"] },
+        { "name": "CCTV12", "urls": ["https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8"] },
+        { "name": "CCTV13", "urls": ["https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8"] },
+        { "name": "CCTV14", "urls": ["https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8"] },
+        { "name": "CCTV15", "urls": ["https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8"] }
+      ]
+    }
+  ]
+}
